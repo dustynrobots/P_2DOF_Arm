@@ -75,5 +75,6 @@ void get_xy() {
 
   joint2X = a1*cos(radians(theta1)) + a2*cos(radians(theta1+theta2));
   joint2Y = a1*sin(radians(theta1)) + a2*sin(radians(theta1+theta2));
+  // github testing
 }
 
